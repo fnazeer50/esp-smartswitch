@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../Desktop/Embedded_ESP32/ESP32Warover"
+		},
+		{
+			"name": "Captive Portal LED Control",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
